@@ -1,4 +1,4 @@
-const sum = require("./operations");
+const { sum } = require("./operations");
 
 test("adds 1+2 to be 3", () => {
   const result = sum(1, 2);
