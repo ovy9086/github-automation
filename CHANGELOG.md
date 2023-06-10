@@ -1,5 +1,12 @@
 
 
+### [0.1.5](https://github.com/ovy9086/github-automation/compare/0.1.4...0.1.5) (2023-06-10)
+
+
+### Others
+
+* add deployments permission ([fd4b168](https://github.com/ovy9086/github-automation/commit/fd4b168fb0854d6994477dda6a679a4877f71541))
+
 ### [0.1.4](https://github.com/ovy9086/github-automation/compare/0.1.3...0.1.4) (2023-06-10)
 
 
