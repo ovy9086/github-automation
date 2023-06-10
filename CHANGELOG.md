@@ -1,5 +1,12 @@
 
 
+### [0.1.2](https://github.com/ovy9086/github-automation/compare/0.1.1...0.1.2) (2023-06-10)
+
+
+### Bug Fixes
+
+* deployments ([6476def](https://github.com/ovy9086/github-automation/commit/6476def19eb9533ff82de757362807c6f75806f8))
+
 ### [0.1.1](https://github.com/ovy9086/github-automation/compare/0.1.0...0.1.1) (2023-06-10)
 
 
