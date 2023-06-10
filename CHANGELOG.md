@@ -1,5 +1,12 @@
 
 
+### [0.1.4](https://github.com/ovy9086/github-automation/compare/0.1.3...0.1.4) (2023-06-10)
+
+
+### Others
+
+* change deploy action ([7498c1e](https://github.com/ovy9086/github-automation/commit/7498c1e51c944ad1f6b92470b32a04e6a77b7ffe))
+
 ### [0.1.3](https://github.com/ovy9086/github-automation/compare/0.1.2...0.1.3) (2023-06-10)
 
 
