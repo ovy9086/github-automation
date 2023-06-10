@@ -1,5 +1,12 @@
 
 
+### [0.1.6](https://github.com/ovy9086/github-automation/compare/0.1.5...0.1.6) (2023-06-10)
+
+
+### Others
+
+* fix syntax ([a22ddd3](https://github.com/ovy9086/github-automation/commit/a22ddd35fbe6287956c426494ca9bb7a8b466299))
+
 ### [0.1.5](https://github.com/ovy9086/github-automation/compare/0.1.4...0.1.5) (2023-06-10)
 
 
