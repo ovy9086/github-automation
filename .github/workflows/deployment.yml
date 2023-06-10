@@ -8,14 +8,10 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        node-version: [16.x]
-
     steps: 
-      - uses: actions/checkout@v1
+       - uses: actions/checkout@v1
 
-      - uses: altinukshini/deployment-action@releases/v1
+       - uses: chrnorm/deployment-action@v2
         name: Create GitHub deployment
         id: deployment
         with:
