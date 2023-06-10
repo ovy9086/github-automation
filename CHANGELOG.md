@@ -1,5 +1,12 @@
 
 
+### [0.1.3](https://github.com/ovy9086/github-automation/compare/0.1.2...0.1.3) (2023-06-10)
+
+
+### Others
+
+* use node 16 ([ebccf20](https://github.com/ovy9086/github-automation/commit/ebccf2076b6eb565f91b5a45cfde6776558838cf))
+
 ### [0.1.2](https://github.com/ovy9086/github-automation/compare/0.1.1...0.1.2) (2023-06-10)
 
 
