@@ -1,5 +1,12 @@
 
 
+### [0.1.1](https://github.com/ovy9086/github-automation/compare/0.1.0...0.1.1) (2023-06-10)
+
+
+### Others
+
+* deployment workflow ([cf77406](https://github.com/ovy9086/github-automation/commit/cf77406ff2ad67b3c71870822dd44a07974c513b))
+
 ## 0.1.0 (2023-06-10)
 
 
