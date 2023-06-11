@@ -1,5 +1,12 @@
 
 
+### [0.1.7](https://github.com/ovy9086/github-automation/compare/0.1.6...0.1.7) (2023-06-11)
+
+
+### Bug Fixes
+
+* yaml syntax ([fbdb19f](https://github.com/ovy9086/github-automation/commit/fbdb19f705919d699ea2736e53d4e3e8db1d0255))
+
 ### [0.1.6](https://github.com/ovy9086/github-automation/compare/0.1.5...0.1.6) (2023-06-10)
 
 
