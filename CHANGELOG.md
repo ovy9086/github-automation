@@ -1,5 +1,12 @@
 
 
+### [0.1.8](https://github.com/ovy9086/github-automation/compare/0.1.7...0.1.8) (2023-06-11)
+
+
+### Bug Fixes
+
+* deployment status success as initial ([0581395](https://github.com/ovy9086/github-automation/commit/058139507a1c7a5c38e441cb4f08dbde2ce4ad68))
+
 ### [0.1.7](https://github.com/ovy9086/github-automation/compare/0.1.6...0.1.7) (2023-06-11)
 
 
